@@ -1,0 +1,134 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2,Q3,Q4_1,Q5_1,Q6_1,Q7_1,Q8_1,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q10_1
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,What is your age?,"For the remaining questions, consider the following hypothetical scenario.
+
+You receive your monthly paycheque. After paying all your expenses, you have a sum of money leftover. Let's call this disposible income less expenses.
+
+Please click the second box to confirm you understand the scenario.","You receive your paycheque and after paying all your expenses, you have a sum of money leftover. 
+
+Please use the slider to indicate how much you would save, and how much you would invest. - What percent of your leftover income would you invest?","On average, annual inflation is 3%. This means if you save, you can expect your money to decrease on average by 3% per year, after adjusting for inflation.
+
+Since its existence, the S&P500 has averaged an 11.82% increase annually. This means, if you invest in an S&P500 index (subject to volatility) you can expect your money to increase on average by 8.82% per year, after adjusting for inflation.
+
+With this information in mind, please move the slider to indicate how much you would save, and how much you would invest. - What percent of your leftover income would you invest?","You receive your paycheque and after paying all your expenses, you have a sum of money leftover. 
+
+Please move the slider to indicate how much you would save, and how much you would invest. - What percent of your leftover income would you invest?","Your financial advisor makes you aware of the average allocation clients tend to set, demonstrated by the new default position of the slider. 
+
+You receive your paycheque and after paying all your expenses, you have a sum of money leftover. 
+
+Please move the slider to indicate how much you would save, and how much you would invest. - What percent of your leftover income would you invest?","On average, annual inflation is 3%. This means if you save, you can expect your money to decrease on average by 3% per year, after adjusting for inflation.
+
+Since its existence, the S&P500 has averaged an 11.82% increase annually. This means, if you invest in an S&P500 index (subject to volatility) you can expect your money to increase on average by 8.82% per year, after adjusting for inflation.
+
+This means €5000 saved would on average lose €150 annualy in real terms, whereas €5000 invested in the S&P500 would on average gain €441 annually in real terms.
+
+With this information in mind, please move the slider to indicate how much you would save, and how much you would invest. - What percent of your leftover income would you invest?","Out of the following options, which goals are most important to you? Rank from highest to lowest. - Real estate","Out of the following options, which goals are most important to you? Rank from highest to lowest. - Childrens Education","Out of the following options, which goals are most important to you? Rank from highest to lowest. - Holidays & Leisure","Out of the following options, which goals are most important to you? Rank from highest to lowest. - Retirement","Out of the following options, which goals are most important to you? Rank from highest to lowest. - Financial freedom","Out of the following options, which goals are most important to you? Rank from highest to lowest. - Other","Which allocation between Saving and Investing would you set to acheive these Financial Goals? 
+
+Please move the slider to indicate how much you would save, and how much you would invest. - What percent of your leftover income would you invest?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID1""}","{""ImportId"":""QID8""}","{""ImportId"":""QID4_1""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID5_1""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID12_2""}","{""ImportId"":""QID12_3""}","{""ImportId"":""QID12_4""}","{""ImportId"":""QID12_5""}","{""ImportId"":""QID12_6""}","{""ImportId"":""QID13_1""}"
+2023-03-22 09:31:54,2023-03-22 09:32:07,1,,100,13,1,2023-03-22 09:32:08,R_W9wnH5INzmaCwFz,,,,,,,preview,EN,1,2,,,,,,,,,,,,
+2023-03-22 09:36:43,2023-03-22 09:36:59,1,,100,15,1,2023-03-22 09:37:00,R_Usfav8Uo8iYOx0d,,,,,,,preview,EN,1,2,43,37,,,,,,,,,,
+2023-03-22 09:39:59,2023-03-22 09:40:53,1,,100,54,1,2023-03-22 09:40:54,R_3koFOgq3HGAxuK8,,,,,,,preview,EN,1,2,50,62,,,,,,,,,,
+2023-03-22 10:45:42,2023-03-22 10:46:34,1,,100,51,1,2023-03-22 10:46:35,R_pmUSYNX0DgP1jKF,,,,,,,preview,EN,1,2,,,41,79,50,5,1,2,3,4,6,46
+2023-03-22 10:47:16,2023-03-22 10:49:04,0,,100,108,1,2023-03-22 10:49:05,R_2uJ4q9ZjeKANepX,,,,,,,anonymous,EN,1,2,,,50,70,80,2,4,3,5,1,6,88
+2023-03-22 10:56:17,2023-03-22 10:57:24,0,,100,67,1,2023-03-22 10:57:24,R_brBv4JdK81HRLfX,,,,,,,anonymous,EN,1,2,30,50,,,,,,,,,,
+2023-03-22 10:57:48,2023-03-22 10:59:39,0,,100,111,1,2023-03-22 10:59:40,R_piVvehweAbGf8n7,,,,,,,anonymous,EN,1,2,,,40,60,40,3,2,5,4,1,6,60
+2023-03-22 11:01:55,2023-03-22 11:03:27,0,,100,92,1,2023-03-22 11:03:28,R_10uOLRirWVrygp6,,,,,,,anonymous,EN,1,2,30,60,,,,,,,,,,
+2023-03-22 11:31:50,2023-03-22 11:34:30,0,,100,159,1,2023-03-22 11:34:30,R_Pw8T3RklWJxUa2J,,,,,,,anonymous,EN,1,2,77,77,,,,,,,,,,
+2023-03-22 11:36:19,2023-03-22 11:38:03,0,,100,104,1,2023-03-22 11:38:04,R_1GN6ipqsFwrg642,,,,,,,anonymous,EN,2,2,20,100,,,,,,,,,,
+2023-03-22 11:34:24,2023-03-22 11:38:48,0,,100,263,1,2023-03-22 11:38:48,R_2X1Eu8Yu5kIEvc7,,,,,,,anonymous,EN,1,2,,,20,20,40,2,5,3,4,1,6,30
+2023-03-22 11:40:29,2023-03-22 11:42:50,0,,100,141,1,2023-03-22 11:42:50,R_32RrEeLxclWYpay,,,,,,,anonymous,EN,1,2,,,70,75,75,4,5,2,3,1,6,80
+2023-03-22 11:45:32,2023-03-22 11:46:42,0,,100,69,1,2023-03-22 11:46:42,R_3lAqiwL2AX2A8yq,,,,,,,anonymous,EN,1,2,70,79,,,,,,,,,,
+2023-03-22 11:45:23,2023-03-22 11:48:39,0,,100,196,1,2023-03-22 11:48:40,R_32WkPoPT9lqsLam,,,,,,,anonymous,EN,1,2,,,29,30,40,3,4,2,5,1,6,28
+2023-03-22 11:55:05,2023-03-22 11:57:23,0,,100,137,1,2023-03-22 11:57:23,R_cAv1rNx09XckObf,,,,,,,anonymous,EN,3,2,90,90,,,,,,,,,,
+2023-03-22 11:55:37,2023-03-22 11:57:48,0,,100,130,1,2023-03-22 11:57:49,R_1ClJntY6jvL1k3z,,,,,,,anonymous,EN,2,2,,,0,0,40,5,6,2,3,1,4,35
+2023-03-22 11:57:10,2023-03-22 12:00:32,0,,100,202,1,2023-03-22 12:00:33,R_2Eji0bl4DoZiSg3,,,,,,,anonymous,EN,2,2,30,30,,,,,,,,,,
+2023-03-22 11:59:59,2023-03-22 12:00:55,0,,100,56,1,2023-03-22 12:00:56,R_1dvv4fJMRhmSL2D,,,,,,,anonymous,EN,1,2,20,31,,,,,,,,,,
+2023-03-22 12:02:00,2023-03-22 12:10:44,0,,100,524,1,2023-03-22 12:10:45,R_6sdNjbfUbiKb75D,,,,,,,anonymous,EN,1,2,,,0,0,30,5,3,2,4,1,6,30
+2023-03-22 12:04:51,2023-03-22 12:11:45,0,,100,414,1,2023-03-22 12:11:46,R_Oj6redEVDcZl6Df,,,,,,,anonymous,EN,1,2,,,70,80,80,5,1,6,2,3,4,80
+2023-03-22 12:10:07,2023-03-22 12:12:07,0,,100,120,1,2023-03-22 12:12:08,R_sLnaOXAdxsewOiZ,,,,,,,anonymous,EN,1,2,20,20,,,,,,,,,,
+2023-03-22 12:39:13,2023-03-22 12:41:08,0,,100,114,1,2023-03-22 12:41:08,R_1dtbbxCVBXswZGx,,,,,,,anonymous,EN,1,2,,,50,69,81,4,2,3,5,1,6,81
+2023-03-22 12:42:41,2023-03-22 12:59:21,0,,100,999,1,2023-03-22 12:59:21,R_3flAE3RDzm6cIja,,,,,,,anonymous,EN,1,2,80,80,,,,,,,,,,
+2023-03-22 13:05:40,2023-03-22 13:07:12,0,,100,92,1,2023-03-22 13:07:12,R_a04KyfRPBapYmNr,,,,,,,anonymous,EN,1,2,45,75,,,,,,,,,,
+2023-03-22 13:09:55,2023-03-22 13:11:29,0,,100,93,1,2023-03-22 13:11:29,R_9KSyulP5hZ4meiZ,,,,,,,anonymous,EN,1,2,20,70,,,,,,,,,,
+2023-03-22 13:09:19,2023-03-22 13:16:44,0,,100,444,1,2023-03-22 13:16:44,R_2ozp5U0EfysPazT,,,,,,,anonymous,EN,1,2,,,20,77,100,2,4,3,5,1,6,100
+2023-03-22 14:01:41,2023-03-22 14:06:06,0,,100,264,1,2023-03-22 14:06:07,R_2pQ93ubjJcKGA0W,,,,,,,anonymous,EN,3,2,,,70,75,80,3,5,2,4,1,6,80
+2023-03-22 14:14:09,2023-03-22 14:16:28,0,,100,139,1,2023-03-22 14:16:29,R_12r1XtEtcfCLqxo,,,,,,,anonymous,EN,1,2,50,75,,,,,,,,,,
+2023-03-22 14:15:26,2023-03-22 14:17:54,0,,100,148,1,2023-03-22 14:17:54,R_3j2r8zU0PQDI9HU,,,,,,,anonymous,EN,1,2,,,0,41,81,5,1,3,4,2,6,70
+2023-03-22 14:27:05,2023-03-22 14:28:59,0,,100,114,1,2023-03-22 14:29:00,R_1ltoTZocUXDhehf,,,,,,,anonymous,EN,2,2,20,30,,,,,,,,,,
+2023-03-22 14:25:30,2023-03-22 14:30:56,0,,100,326,1,2023-03-22 14:30:57,R_1H6ORvYQ8pzSUUJ,,,,,,,anonymous,EN,2,2,,,20,20,50,,,,,,,31
+2023-03-22 14:34:57,2023-03-22 14:35:33,0,,100,36,1,2023-03-22 14:35:34,R_12EUJaHKdhg5wtB,,,,,,,anonymous,EN,1,2,58,61,,,,,,,,,,
+2023-03-22 15:36:13,2023-03-22 15:39:08,0,,100,174,1,2023-03-22 15:39:08,R_2pQBb6fMRm3oO1E,,,,,,,anonymous,EN,1,2,,,78,80,75,3,1,5,4,2,6,75
+2023-03-22 16:02:00,2023-03-22 16:09:30,0,,100,449,1,2023-03-22 16:09:30,R_sI6UA9TmCtOQb3X,,,,,,,anonymous,EN,1,2,40,40,,,,,,,,,,
+2023-03-22 16:09:42,2023-03-22 16:15:59,0,,100,376,1,2023-03-22 16:15:59,R_2SlcypPtAYxbuUk,,,,,,,anonymous,EN,1,2,,,40,40,50,3,5,1,6,2,4,55
+2023-03-22 17:21:28,2023-03-22 17:23:52,0,,100,144,1,2023-03-22 17:23:53,R_2q8HZjCQfL3cdjs,,,,,,,anonymous,EN,1,2,60,85,,,,,,,,,,
+2023-03-22 18:00:55,2023-03-22 18:04:03,0,,100,188,1,2023-03-22 18:04:03,R_1zSYWHgYaphfYn7,,,,,,,anonymous,EN,2,2,,,0,30,30,1,6,2,3,4,5,25
+2023-03-23 00:57:00,2023-03-23 01:00:29,0,,100,208,1,2023-03-23 01:00:29,R_3efbuCpxJJ4RZjY,,,,,,,anonymous,EN,4,2,,,58,55,83,4,2,3,5,1,6,61
+2023-03-23 03:14:08,2023-03-23 03:16:07,0,,100,119,1,2023-03-23 03:16:08,R_zdNcICQt3ZXTZVD,,,,,,,anonymous,EN,2,2,28,80,,,,,,,,,,
+2023-03-23 03:14:24,2023-03-23 03:19:29,0,,100,305,1,2023-03-23 03:19:30,R_3nBoDhf5pLRTUY5,,,,,,,anonymous,EN,2,2,,,75,75,75,4,3,5,2,1,6,72
+2023-03-23 07:00:40,2023-03-23 07:03:15,0,,100,155,1,2023-03-23 07:03:16,R_3HHyBR2vkgBgoEp,,,,,,,anonymous,EN,2,2,,,75,75,75,3,5,1,4,2,6,76
+2023-03-23 07:10:52,2023-03-23 07:12:13,0,,100,81,1,2023-03-23 07:12:14,R_2CfxR8tO2HVc4SC,,,,,,,anonymous,EN,1,2,0,50,,,,,,,,,,
+2023-03-23 07:34:26,2023-03-23 07:36:20,0,,100,113,1,2023-03-23 07:36:22,R_SSJSOuTsDprUKlz,,,,,,,anonymous,EN,1,2,,,40,30,20,3,4,2,5,1,6,60
+2023-03-23 10:19:06,2023-03-23 10:19:59,0,,100,53,1,2023-03-23 10:20:00,R_eannJPCO9hRE21b,,,,,,,anonymous,EN,1,2,50,50,,,,,,,,,,
+2023-03-23 23:53:53,2023-03-23 23:55:48,0,,100,114,1,2023-03-23 23:55:48,R_zZnHpiK3SaQ4h1v,,,,,,,anonymous,EN,2,2,10,20,,,,,,,,,,
+2023-03-24 03:15:48,2023-03-24 03:25:10,0,,100,561,1,2023-03-24 03:25:10,R_1gIRNv8lLNgdrxd,,,,,,,anonymous,EN,4,2,,,50,50,50,2,5,4,3,1,6,50
+2023-03-24 03:52:42,2023-03-24 03:53:43,0,,100,60,1,2023-03-24 03:53:45,R_1jO3gtzmrVkEYcP,,,,,,,anonymous,EN,1,2,71,70,,,,,,,,,,
+2023-03-24 04:06:18,2023-03-24 04:09:46,0,,100,207,1,2023-03-24 04:09:47,R_2QnwsSI2E8d9dfj,,,,,,,anonymous,EN,1,2,,,30,40,40,2,3,4,5,1,6,60
+2023-03-24 05:57:03,2023-03-24 05:59:44,0,,100,161,1,2023-03-24 05:59:44,R_DisZBPr2z9wQHEB,,,,,,,anonymous,EN,1,2,80,80,,,,,,,,,,
+2023-03-24 07:58:53,2023-03-24 08:02:44,0,,100,230,1,2023-03-24 08:02:44,R_PGPmJjzue0SDyOR,,,,,,,anonymous,EN,1,2,,,0,25,60,1,5,4,3,2,6,40
+2023-03-24 08:53:22,2023-03-24 08:54:21,0,,100,58,1,2023-03-24 08:54:21,R_07fMfaIwYsMcIQp,,,,,,,anonymous,EN,1,2,50,50,,,,,,,,,,
+2023-03-24 09:49:52,2023-03-24 09:53:48,0,,100,236,1,2023-03-24 09:53:49,R_3RfsApvtkKFByTJ,,,,,,,anonymous,EN,1,2,,,29,29,42,5,1,2,3,4,6,32
+2023-03-24 10:49:44,2023-03-24 10:52:19,0,,100,154,1,2023-03-24 10:52:19,R_xfiKq70pLn727Ul,,,,,,,anonymous,EN,2,2,70,90,,,,,,,,,,
+2023-03-24 12:02:34,2023-03-24 12:05:01,0,,100,147,1,2023-03-24 12:05:02,R_vcXr1CtpWDOMHFD,,,,,,,anonymous,EN,1,2,,,60,60,80,5,3,4,2,1,6,50
+2023-03-24 12:03:08,2023-03-24 12:11:00,0,,100,472,1,2023-03-24 12:11:00,R_2CdM3H5nt4qrBSR,,,,,,,anonymous,EN,1,2,,,10,20,30,3,6,2,5,1,4,30
+2023-03-24 12:12:19,2023-03-24 12:16:27,0,,100,247,1,2023-03-24 12:16:27,R_1pSa413tpfwnsHs,,,,,,,anonymous,EN,1,2,,,0,20,50,6,1,2,4,3,5,50
+2023-03-24 12:24:10,2023-03-24 12:25:49,0,,100,98,1,2023-03-24 12:25:50,R_qWmcwfy24IafLFL,,,,,,,anonymous,EN,1,2,80,80,,,,,,,,,,
+2023-03-24 12:47:10,2023-03-24 12:50:08,0,,100,177,1,2023-03-24 12:50:08,R_3MSXnFAwoixIfyS,,,,,,,anonymous,EN,1,2,,,0,40,60,5,1,3,4,2,6,40
+2023-03-24 13:06:38,2023-03-24 13:08:49,0,,100,130,1,2023-03-24 13:08:49,R_Zw1NfOvAHDQv0CB,,,,,,,anonymous,EN,1,2,30,30,,,,,,,,,,
+2023-03-24 13:18:14,2023-03-24 13:22:47,0,,100,273,1,2023-03-24 13:22:48,R_pF3zCVPcvIdwg93,,,,,,,anonymous,EN,1,2,,,40,51,90,3,4,1,5,2,6,41
+2023-03-24 13:43:52,2023-03-24 13:45:30,0,,100,98,1,2023-03-24 13:45:31,R_1hFG69ox0WrOWUd,,,,,,,anonymous,EN,1,2,50,60,,,,,,,,,,
+2023-03-24 14:24:56,2023-03-24 14:29:02,0,,100,245,1,2023-03-24 14:29:02,R_2bV05DbNgwum7Q5,,,,,,,anonymous,EN,1,2,,,0,30,80,1,3,4,5,2,6,50
+2023-03-24 15:25:18,2023-03-24 15:28:16,0,,100,177,1,2023-03-24 15:28:16,R_129zVUgAWGYnDBQ,,,,,,,anonymous,EN,1,2,,,2,53,70,3,5,2,4,1,6,67
+2023-03-24 17:42:59,2023-03-24 17:47:38,0,,100,278,1,2023-03-24 17:47:38,R_1PcUMitzxKjiGoM,,,,,,,anonymous,EN,4,2,0,30,,,,,,,,,,
+2023-03-24 17:53:42,2023-03-24 18:00:19,0,,100,397,1,2023-03-24 18:00:20,R_4Yg2jjHZnLp78aZ,,,,,,,anonymous,EN,4,2,,,30,40,40,5,2,4,3,1,6,60
+2023-03-25 03:06:50,2023-03-25 03:08:17,0,,100,86,1,2023-03-25 03:08:17,R_1NntBLCqfRaACPx,,,,,,,anonymous,EN,3,2,,70,,,,,,,,,,
+2023-03-25 03:26:09,2023-03-25 03:32:22,0,,100,372,1,2023-03-25 03:32:22,R_3ELlACcOFFbeiGx,,,,,,,anonymous,EN,2,2,,,40,60,40,1,6,2,4,3,5,40
+2023-03-25 04:21:47,2023-03-25 04:23:19,0,,100,92,1,2023-03-25 04:23:20,R_1HpZjZMVHSKdXzb,,,,,,,anonymous,EN,4,2,10,10,,,,,,,,,,
+2023-03-25 04:33:30,2023-03-25 04:38:26,0,,100,295,1,2023-03-25 04:38:26,R_2tFKqQIzAWrXIsj,,,,,,,anonymous,EN,1,2,,,50,50,60,4,1,5,2,3,6,60
+2023-03-24 12:03:57,2023-03-25 05:01:57,0,,100,61080,1,2023-03-25 05:01:58,R_3NWlEYWwJsf6dLx,,,,,,,anonymous,EN,4,2,100,50,,,,,,,,,,
+2023-03-25 05:11:45,2023-03-25 05:33:57,0,,100,1332,1,2023-03-25 05:33:58,R_2zGwzbmtdTK8zQf,,,,,,,anonymous,EN,1,2,50,51,,,,,,,,,,
+2023-03-25 05:49:49,2023-03-25 05:51:40,0,,100,110,1,2023-03-25 05:51:42,R_2AMUwgdAB2If4Dr,,,,,,,anonymous,EN,4,2,,,80,80,80,4,2,5,3,1,6,80
+2023-03-25 05:53:28,2023-03-25 05:56:44,0,,100,195,1,2023-03-25 05:56:44,R_PXVGC2zx0W6THsB,,,,,,,anonymous,EN,3,2,,,75,75,75,5,4,2,3,1,6,75
+2023-03-25 05:55:24,2023-03-25 05:57:57,0,,100,152,1,2023-03-25 05:57:57,R_1CCInXalGmsQoVc,,,,,,,anonymous,EN,4,2,30,31,,,,,,,,,,
+2023-03-25 06:03:46,2023-03-25 06:04:55,0,,100,68,1,2023-03-25 06:04:55,R_28U5DEkZbhJFdbt,,,,,,,anonymous,EN,3,2,43,55,,,,,,,,,,
+2023-03-25 06:05:09,2023-03-25 06:07:20,0,,100,131,1,2023-03-25 06:07:20,R_1I3CO7RHsq9vPxW,,,,,,,anonymous,EN,3,2,50,68,,,,,,,,,,
+2023-03-25 06:13:18,2023-03-25 06:17:00,0,,100,221,1,2023-03-25 06:17:00,R_2rDcgeli85M1dqK,,,,,,,anonymous,EN,4,2,,,50,70,80,2,1,4,3,5,6,70
+2023-03-25 06:21:31,2023-03-25 06:24:52,0,,100,200,1,2023-03-25 06:24:52,R_3fBpfPQx9kfboQc,,,,,,,anonymous,EN,4,2,10,11,,,,,,,,,,
+2023-03-25 06:37:47,2023-03-25 06:38:44,0,,100,57,1,2023-03-25 06:38:46,R_27NXLooJVGgewtd,,,,,,,anonymous,EN,4,2,22,60,,,,,,,,,,
+2023-03-25 06:37:28,2023-03-25 06:40:24,0,,100,176,1,2023-03-25 06:40:24,R_1CKkYqCZJ8uheDa,,,,,,,anonymous,EN,4,2,,,52,70,90,3,5,4,1,2,6,72
+2023-03-25 06:39:33,2023-03-25 06:42:16,0,,100,163,1,2023-03-25 06:42:16,R_2bPnMFyKJE7ikp3,,,,,,,anonymous,EN,4,2,,,20,10,50,4,5,3,1,2,6,20
+2023-03-25 06:39:41,2023-03-25 06:43:23,0,,100,221,1,2023-03-25 06:43:23,R_1LNEuwHSm33siFu,,,,,,,anonymous,EN,4,2,25,25,,,,,,,,,,
+2023-03-25 06:55:10,2023-03-25 06:56:38,0,,100,88,1,2023-03-25 06:56:39,R_3GrK4n0DkMnltE5,,,,,,,anonymous,EN,3,2,51,19,,,,,,,,,,
+2023-03-25 07:04:54,2023-03-25 07:06:07,0,,100,73,1,2023-03-25 07:06:07,R_24D8vjzahkeaFzk,,,,,,,anonymous,EN,4,2,24,24,,,,,,,,,,
+2023-03-25 07:05:18,2023-03-25 07:07:20,0,,100,122,1,2023-03-25 07:07:20,R_1OxCUV9ekYCnxkv,,,,,,,anonymous,EN,4,2,,,40,40,50,1,2,4,3,5,6,60
+2023-03-25 07:46:28,2023-03-25 07:49:14,0,,100,165,1,2023-03-25 07:49:14,R_6fGq0wKvwnAhbVL,,,,,,,anonymous,EN,3,2,,,57,68,75,5,2,3,4,1,6,84
+2023-03-25 07:49:04,2023-03-25 07:50:41,0,,100,96,1,2023-03-25 07:50:42,R_2pJkqX2koRiCdGk,,,,,,,anonymous,EN,3,2,40,40,,,,,,,,,,
+2023-03-25 08:47:25,2023-03-25 08:48:43,0,,100,77,1,2023-03-25 08:48:43,R_3JxdI21j3ZiAFEq,,,,,,,anonymous,EN,4,2,73,71,,,,,,,,,,
+2023-03-25 08:51:45,2023-03-25 08:54:45,0,,100,179,1,2023-03-25 08:54:45,R_8jE4I2iPA25YJgZ,,,,,,,anonymous,EN,3,2,,,30,30,31,2,3,4,5,1,6,38
+2023-03-25 09:26:55,2023-03-25 09:31:07,0,,100,252,1,2023-03-25 09:31:08,R_1rwYtvEb1PlMSUY,,,,,,,anonymous,EN,4,2,0,12,,,,,,,,,,
+2023-03-25 08:11:14,2023-03-25 10:11:10,0,,100,7195,1,2023-03-25 10:11:10,R_1lmhglPYAxlqoxT,,,,,,,anonymous,EN,4,2,80,80,,,,,,,,,,
+2023-03-25 10:24:36,2023-03-25 10:26:26,0,,100,109,1,2023-03-25 10:26:26,R_3koC3BVvUmGY5O3,,,,,,,anonymous,EN,3,2,,,50,49,93,5,1,4,2,3,6,52
+2023-03-25 11:00:31,2023-03-25 11:01:37,0,,100,65,1,2023-03-25 11:01:37,R_3HYVEiQOS0rxEW0,,,,,,,anonymous,EN,4,2,33,40,,,,,,,,,,
+2023-03-25 11:22:03,2023-03-25 11:24:19,0,,100,136,1,2023-03-25 11:24:19,R_3qyCFvAhQS63qOL,,,,,,,anonymous,EN,1,2,,,50,61,50,3,5,2,4,1,6,55
+2023-03-25 11:45:36,2023-03-25 11:47:07,0,,100,90,1,2023-03-25 11:47:07,R_2bV2DL53UZ3YnYY,,,,,,,anonymous,EN,3,2,35,50,,,,,,,,,,
+2023-03-25 14:20:33,2023-03-25 14:24:21,0,,100,228,1,2023-03-25 14:24:22,R_2YqUkdaskPSF2ej,,,,,,,anonymous,EN,4,2,,,51,67,61,,,,,,,54
+2023-03-25 15:00:23,2023-03-25 15:01:18,0,,100,55,1,2023-03-25 15:01:19,R_z0YtLAznb5OJ7NL,,,,,,,anonymous,EN,4,2,52,35,,,,,,,,,,
+2023-03-25 15:36:15,2023-03-25 15:38:34,0,,100,139,1,2023-03-25 15:38:34,R_uwzv7g8q3I6YjTz,,,,,,,anonymous,EN,4,2,,,61,75,91,4,6,3,1,2,5,82
+2023-03-25 16:16:49,2023-03-25 16:27:08,0,,100,619,1,2023-03-25 16:27:08,R_3qkaZYgbvdFZAkZ,,,,,,,anonymous,EN,4,2,,,50,60,65,5,6,2,3,1,4,50
+2023-03-25 16:41:56,2023-03-25 16:43:45,0,,100,109,1,2023-03-25 16:43:45,R_2lsj3hIsK4nM7Lj,,,,,,,anonymous,EN,4,2,50,60,,,,,,,,,,
+2023-03-26 01:56:24,2023-03-26 01:57:47,0,,100,83,1,2023-03-26 01:57:47,R_UL9cSyKXBIyvaJb,,,,,,,anonymous,EN,4,2,50,50,,,,,,,,,,
+2023-03-26 03:02:09,2023-03-26 03:10:32,0,,100,503,1,2023-03-26 03:10:34,R_1LetkSN5wNa0jPd,,,,,,,anonymous,EN,1,2,,,70,70,55,5,2,3,4,1,6,50
+2023-03-26 03:58:34,2023-03-26 03:59:36,0,,100,62,1,2023-03-26 03:59:36,R_ZfVyrqZSVaxF0jv,,,,,,,anonymous,EN,3,2,10,10,,,,,,,,,,
+2023-03-26 05:00:07,2023-03-26 05:02:20,0,,100,132,1,2023-03-26 05:02:20,R_1I4WBJJnTDMs38e,,,,,,,anonymous,EN,1,2,50,75,,,,,,,,,,
+2023-03-26 05:00:04,2023-03-26 05:05:08,0,,100,303,1,2023-03-26 05:05:09,R_3gL5nm4sDFP8AGl,,,,,,,anonymous,EN,4,2,,,50,60,70,5,1,4,2,3,6,60
+2023-03-26 05:21:40,2023-03-26 05:23:13,0,,100,92,1,2023-03-26 05:23:14,R_szAM2EZSGPxGNsl,,,,,,,anonymous,EN,1,2,40,37,,,,,,,,,,
+2023-03-26 05:27:17,2023-03-26 05:32:05,0,,100,287,1,2023-03-26 05:32:06,R_3ozvCnnmo8Qsv5K,,,,,,,anonymous,EN,1,2,,,70,69,50,4,5,2,3,1,6,49
